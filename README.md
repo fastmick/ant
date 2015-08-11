@@ -1,1 +1,1 @@
-# ant script for optimize a web-Projekt
+# ant script to optimize a web project
